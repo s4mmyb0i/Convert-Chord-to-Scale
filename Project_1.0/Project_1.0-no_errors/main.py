@@ -2,19 +2,6 @@
 Samvit Singhal
 COMP 112-04 Introduction to Programming
 2023-12-08
-
-
-1. What were the 3 goals for your project?
-    I wanted to use flow control, dictionaries, and file I/O.
-2. Were the goals met?
-    All goals, and more were met
-3. How does this project illustrate your mastery of Python?
-    I've used a library that was not taught in class, but is instrumental in the running of the program. Using lilypond
-    has given me a unique understanding of how python can work with other languages.
-4. What have you learned from doing this project?
-    A big skill I've learned is how to convert a program from functions to a OOP based program. Doing this almost halved
-    the number of lines, and made it much more readable. Furthermore, I have learned how to code music using lilypond.
-    I have also developed the skill of thinking about possible errors and catching those.
 """
 
 import subprocess
